@@ -1,0 +1,2 @@
+# LogisticsShippingRates
+Coursera training exercise 
